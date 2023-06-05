@@ -1,0 +1,11 @@
+{
+"packageRules": [{
+"matchPackageNames": ["xmldoc", "common-tags"],
+  "groupName": "immortal-grp"
+}],
+"lockFileMaintenance": { 
+"enabled": true,
+  "schedule": ["at any time"]
+ },
+  "dependencyDashboard": true
+}
